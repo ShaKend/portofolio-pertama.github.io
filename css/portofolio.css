@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(220, 220, 220, 0.726);
+}
+.jumbotron {
+  padding-top: 6rem;
+}
+.tex-2 {
+  color: black;
+  background: #dcdcdc;
+}
+.aaa {
+  text-decoration: none;
+  color: white;
+}
+.dc {
+  background: #dcdcdc;
+}
+section {
+  padding-top: 4rem;
+}
+.nava .con .colle .ulu a:visited {
+  color: white;
+}
